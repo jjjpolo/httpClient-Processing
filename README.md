@@ -1,4 +1,4 @@
-# HTTP REQUEST USIng PROCESSING 3+
+# HTTP REQUEST USING PROCESSING 3+
 This script lets the user send an http request to a datetime service to demosntrate how to do this kind of http requests.
 The bext steps could be get the weather and mybe get covid statistics. 
 
